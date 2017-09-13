@@ -8,7 +8,7 @@
 ### Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/sindresorhus/evil.swift", from: "1.0.0")
+.package(url: "https://github.com/sindresorhus/evil.swift", from: "2.0.0")
 ```
 
 
